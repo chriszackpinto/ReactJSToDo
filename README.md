@@ -1,3 +1,11 @@
+#ReactJSToDo
+
+A Todo / List / Notes app from React JS
+
+Stores data to local storage and retrives on load.
+
+Vanilla JS version: https://github.com/chriszackpinto/VanillaJSToDo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
